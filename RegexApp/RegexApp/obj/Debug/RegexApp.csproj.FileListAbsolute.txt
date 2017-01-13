@@ -1,0 +1,7 @@
+c:\users\bedelu\documents\visual studio 2013\Projects\RegexApp\RegexApp\bin\Debug\RegexApp.exe.config
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\RegexApp\RegexApp\bin\Debug\RegexApp.exe.config
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\RegexApp\RegexApp\bin\Debug\RegexApp.exe
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\RegexApp\RegexApp\bin\Debug\RegexApp.pdb
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\RegexApp\RegexApp\obj\Debug\RegexApp.exe
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\RegexApp\RegexApp\obj\Debug\RegexApp.pdb
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\RegexApp\RegexApp\obj\Debug\RegexApp.csprojResolveAssemblyReference.cache

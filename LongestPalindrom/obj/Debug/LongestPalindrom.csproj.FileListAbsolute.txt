@@ -1,0 +1,5 @@
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\LongestPalindrom\bin\Debug\LongestPalindrom.exe.config
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\LongestPalindrom\bin\Debug\LongestPalindrom.exe
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\LongestPalindrom\bin\Debug\LongestPalindrom.pdb
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\LongestPalindrom\obj\Debug\LongestPalindrom.exe
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\LongestPalindrom\obj\Debug\LongestPalindrom.pdb

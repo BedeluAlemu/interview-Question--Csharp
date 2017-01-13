@@ -1,0 +1,5 @@
+C:\Users\bedelu.dender\documents\visual studio 2015\Projects\InterviewExample\CoinChangingMinimumCoin\bin\Debug\CoinChangingMinimumCoin.exe.config
+C:\Users\bedelu.dender\documents\visual studio 2015\Projects\InterviewExample\CoinChangingMinimumCoin\bin\Debug\CoinChangingMinimumCoin.exe
+C:\Users\bedelu.dender\documents\visual studio 2015\Projects\InterviewExample\CoinChangingMinimumCoin\bin\Debug\CoinChangingMinimumCoin.pdb
+C:\Users\bedelu.dender\documents\visual studio 2015\Projects\InterviewExample\CoinChangingMinimumCoin\obj\Debug\CoinChangingMinimumCoin.exe
+C:\Users\bedelu.dender\documents\visual studio 2015\Projects\InterviewExample\CoinChangingMinimumCoin\obj\Debug\CoinChangingMinimumCoin.pdb

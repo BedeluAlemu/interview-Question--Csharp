@@ -1,0 +1,5 @@
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\RemoveWord_Demo\bin\Debug\RemoveWord_Demo.exe.config
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\RemoveWord_Demo\bin\Debug\RemoveWord_Demo.exe
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\RemoveWord_Demo\bin\Debug\RemoveWord_Demo.pdb
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\RemoveWord_Demo\obj\Debug\RemoveWord_Demo.exe
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\RemoveWord_Demo\obj\Debug\RemoveWord_Demo.pdb

@@ -1,0 +1,6 @@
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\ZigZagConversion\bin\Debug\ZigZagConversion.exe.config
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\ZigZagConversion\bin\Debug\ZigZagConversion.exe
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\ZigZagConversion\bin\Debug\ZigZagConversion.pdb
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\ZigZagConversion\obj\Debug\ZigZagConversion.exe
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\ZigZagConversion\obj\Debug\ZigZagConversion.pdb
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\ZigZagConversion\obj\Debug\ZigZagConversion.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\ReversString\reverseiinterger\bin\Debug\reverseiinterger.exe.config
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\ReversString\reverseiinterger\obj\Debug\reverseiinterger.csprojResolveAssemblyReference.cache
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\ReversString\reverseiinterger\bin\Debug\reverseiinterger.exe
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\ReversString\reverseiinterger\bin\Debug\reverseiinterger.pdb
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\ReversString\reverseiinterger\obj\Debug\reverseiinterger.exe
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\ReversString\reverseiinterger\obj\Debug\reverseiinterger.pdb

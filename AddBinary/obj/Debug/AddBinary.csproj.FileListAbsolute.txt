@@ -1,0 +1,6 @@
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\AddBinary\bin\Debug\AddBinary.exe.config
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\AddBinary\bin\Debug\AddBinary.exe
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\AddBinary\bin\Debug\AddBinary.pdb
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\AddBinary\obj\Debug\AddBinary.exe
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\AddBinary\obj\Debug\AddBinary.pdb
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\AddBinary\obj\Debug\AddBinary.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\bedelu.dender\documents\visual studio 2015\Projects\InterviewExample\LongestPalindromeFinder\bin\Debug\LongestPalindromeFinder.exe.config
+C:\Users\bedelu.dender\documents\visual studio 2015\Projects\InterviewExample\LongestPalindromeFinder\bin\Debug\LongestPalindromeFinder.exe
+C:\Users\bedelu.dender\documents\visual studio 2015\Projects\InterviewExample\LongestPalindromeFinder\bin\Debug\LongestPalindromeFinder.pdb
+C:\Users\bedelu.dender\documents\visual studio 2015\Projects\InterviewExample\LongestPalindromeFinder\obj\Debug\LongestPalindromeFinder.exe
+C:\Users\bedelu.dender\documents\visual studio 2015\Projects\InterviewExample\LongestPalindromeFinder\obj\Debug\LongestPalindromeFinder.pdb

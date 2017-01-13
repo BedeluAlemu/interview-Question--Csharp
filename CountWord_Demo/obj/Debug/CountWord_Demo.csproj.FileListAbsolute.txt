@@ -1,0 +1,5 @@
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\CountWord_Demo\bin\Debug\CountWord_Demo.exe.config
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\CountWord_Demo\bin\Debug\CountWord_Demo.exe
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\CountWord_Demo\bin\Debug\CountWord_Demo.pdb
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\CountWord_Demo\obj\Debug\CountWord_Demo.exe
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\CountWord_Demo\obj\Debug\CountWord_Demo.pdb

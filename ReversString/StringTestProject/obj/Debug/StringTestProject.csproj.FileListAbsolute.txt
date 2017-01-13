@@ -1,0 +1,7 @@
+c:\users\bedelu\documents\visual studio 2013\Projects\ReversString\StringTestProject\bin\Debug\StringTestProject.dll
+c:\users\bedelu\documents\visual studio 2013\Projects\ReversString\StringTestProject\bin\Debug\StringTestProject.pdb
+c:\users\bedelu\documents\visual studio 2013\Projects\ReversString\StringTestProject\bin\Debug\ReversString.dll
+c:\users\bedelu\documents\visual studio 2013\Projects\ReversString\StringTestProject\bin\Debug\ReversString.pdb
+c:\users\bedelu\documents\visual studio 2013\Projects\ReversString\StringTestProject\obj\Debug\StringTestProject.csprojResolveAssemblyReference.cache
+c:\users\bedelu\documents\visual studio 2013\Projects\ReversString\StringTestProject\obj\Debug\StringTestProject.dll
+c:\users\bedelu\documents\visual studio 2013\Projects\ReversString\StringTestProject\obj\Debug\StringTestProject.pdb

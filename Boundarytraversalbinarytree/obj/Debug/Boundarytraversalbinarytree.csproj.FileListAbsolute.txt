@@ -1,0 +1,5 @@
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\Boundarytraversalbinarytree\bin\Debug\Boundarytraversalbinarytree.exe.config
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\Boundarytraversalbinarytree\bin\Debug\Boundarytraversalbinarytree.exe
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\Boundarytraversalbinarytree\bin\Debug\Boundarytraversalbinarytree.pdb
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\Boundarytraversalbinarytree\obj\Debug\Boundarytraversalbinarytree.exe
+C:\Users\bedelu.dender\Documents\Visual Studio 2015\Projects\InterviewExample\Boundarytraversalbinarytree\obj\Debug\Boundarytraversalbinarytree.pdb
